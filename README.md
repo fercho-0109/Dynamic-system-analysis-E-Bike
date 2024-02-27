@@ -27,7 +27,7 @@ The repository contains three files
 2. Run the Matlab file "**Electric_Bicycle**".
 3. Open and run the Simulink file "**Electric_Bike**"
 4. The Scope blocks should start to show the results  
-![image](https://github.com/fercho-0109/Dynamic-system-analysis-of-a-e-Bike-/assets/40362695/38b221e3-3071-4afd-bd2a-a567903d0a51)
+![image](https://github.com/fercho-0109/Dynamic-system-analysis-of-a-e-Bike-/assets/40362695/38b221e3-3071-4afd-bd2a-a567903d0a51)  
 fig1. In blue is shown the graph of the free response without feedback. On the other hand, the orange graph is the response after feedback control which shows a noticeable reduction of the overshoot that is generated in the beginning
 
 
