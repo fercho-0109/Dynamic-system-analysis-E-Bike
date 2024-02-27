@@ -16,7 +16,7 @@ Furthermore, the project extends its scope to advanced control strategies. A sop
 # File description
 The repository contains three files
 1. **Electric_Bicycle**: This Matlab file contains the configuration parameters of the program and shows the results of the analysis.
-2. **Electric_Bike**: This Simulink file contains the complete simulation of the e-Bike system and the implentation of the observer and control.
+2. **Electric_Bike**: This Simulink file contains the complete simulation of the e-bike system and the implementation of the observer and control.
 3. **Report**: This contains the complete explanation, the mathematical formulations, and the control configuration.
 
 
@@ -27,6 +27,7 @@ The repository contains three files
 2. Run the Matlab file "**Electric_Bicycle**".
 3. Open and run the Simulink file "**Electric_Bike**"
 4. The Scope blocks should start to show the results  
-![image](https://github.com/fercho-0109/CNC-2D-cutting-machine-Control/assets/40362695/fdf0f90a-b552-409e-ade6-690a95bdbeeb)
+![image](https://github.com/fercho-0109/Dynamic-system-analysis-of-a-e-Bike-/assets/40362695/38b221e3-3071-4afd-bd2a-a567903d0a51)
+fig1. In blue is shown the graph of the free response without feedback. On the other hand, the orange graph is the response after feedback control which shows a noticeable reduction of the overshoot that is generated in the beginning
 
 
