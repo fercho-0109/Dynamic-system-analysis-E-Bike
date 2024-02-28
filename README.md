@@ -1,6 +1,6 @@
 # Dynamic-system-analysis-of-a-e-Bike
 
-Code developed for "A. Marino, C. Tiriolo, - Receding Horizon Tracking Trajectory Strategy for Feedback Linearized Differential-Drive".  
+Code developed for "A. Marino, - Receding Horizon Tracking Trajectory Strategy for Feedback Linearized Differential-Drive".  
 Research "Concordia University".  
 
 # Sumary.
